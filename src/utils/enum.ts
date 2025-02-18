@@ -1,0 +1,10 @@
+ export enum USER_ROLE {
+  CUSTOMER = "CUSTOMER",
+   ADMIN = "ADMIN"
+ }
+
+ export enum SUBSCRIPTION_STATUS {
+  ACTIVE = "ACTIVE",
+  CANCELED = "CANCELED",
+  EXPIRED = 'EXPIRED'
+ }
